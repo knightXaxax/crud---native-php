@@ -1,0 +1,8 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, .content {
+    background-color: #f8f8f8;
+}
